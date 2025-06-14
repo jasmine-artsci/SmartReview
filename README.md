@@ -25,15 +25,6 @@ This version was independently refactored and uploaded by Jasmine Huang for port
 
 ---
 
-## 🗂️ Project Structure
-├── graph.py # Core graph logic for product-reviewer connections
-├── text_analysis.py # Sentiment analysis using NLTK/VADER
-├── select_asin.py # Selects subset of products from JSON
-├── plotting.py # Optional visualizations
-├── main.py # Runner script for building and querying the graph
-├── appliances_data.json # Sample input data
-├── README.md # Project overview and documentation
-
 ## How to interact with this project?
 
 1. Clone this repo:
