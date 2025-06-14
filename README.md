@@ -29,7 +29,11 @@ This version was independently refactored and uploaded by Jasmine Huang for port
 
 1. Clone this repo:
 git clone https://github.com/jasmine_artsci/SmartReview.git
+After cloning the repository, navigate into the project folder:
+
+```bash
 cd SmartReview
+```
 
 2. **Install Dependencies**  
    Open the `requirements.txt` file in the project directory and install the necessary packages using:
@@ -38,16 +42,16 @@ cd SmartReview
    pip install -r requirements.txt
    ```
 
-3. Run the Program
+3. **Run the Program**
 Execute main.py. This will also download the necessary NLTK resources to enable text analysis features.
 
-4. Open the Interface
+4. **Open the Interface**
 Navigate to the interactive window labeled "Product Analysis Display."
 
-5. Choose a Product
+5. **Choose a Product**
 Select an ASIN from the dropdown list and click "Select This Product" to load analysis for that item.
 
-6. Explore the Visualizations
+6. **Explore the Visualizations**
 After selecting a product, the interface will display the following:
 
 - A dot plot showing Product Ratings Over Time
@@ -64,7 +68,7 @@ After selecting a product, the interface will display the following:
 
 Note: If no similar products are found for the selected ASIN, some graphs may not appear. Simply try another ASIN to explore more results.
 
-7. Repeat for More Insights
+7. **Repeat for More Insights**
 Feel free to select different ASINs and click the button again to view data and recommendations for other products. It is encouraged to try out various ASINs to fully explore the tool!
 
 ---
