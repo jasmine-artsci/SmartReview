@@ -1,0 +1,11 @@
+# sentiment analysis
+nltk
+certifi
+
+# data analysis
+numpy
+pandas
+
+# plotting and visualizations
+wordcloud
+matplotlib
